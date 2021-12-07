@@ -1,3 +1,26 @@
+I am Masoud Bimmer and I’ve been working as a software engineer for the past 12 years. Also I am student with big interest in data.
+<!-- Hi my name is  Masoud Bimmer, I am a passionate Fullstack Web Developer from Iran, mostly focused in Angular. -->
+
+- 🔭 Working on multiple frontend project using Angular
+
+---
+
+## Connect with me
+
+[![LinkedIn][linkedin_img]][linkedin] [![Stack Overflow][stack_overflow_img]][stack_overflow] [![Instagram][instagram_img]][instagram]
+---
+
+## Languages and tools
+
+![JavaScript][javascript_img] ![Angular][angular_img]
+
+![HTML][html_img] ![CSS][css_img] ![Bootstrap][bootstrap_img]
+
+![PostgreSQL][postgresql] ![Git][git_img]
+
+---
+
+
 [![Github Stats By Anurag](https://github-readme-stats.vercel.app/api?username=masoudbimar&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/masoudbimar)
 
 
@@ -6,6 +29,28 @@
 - 😄 Pronouns: Masoud Bimmer
 - ⚡ Fun fact: ...
 
+
+<!-- references -->
+[linkedin]: https://www.linkedin.com/in/masoud-bimar "LinkedIn"
+[stack_overflow]: https://stackoverflow.com/users/2126355/masoud-bimmer "Stack Overflow"
+[instagram]: https://www.instagram.com/jmschp/ "Instagram"
+[hacker_rank]: https://www.instagram.com/kamassb "HackerRank"
+[dev]: http://www.tbcom.ir/Blog/Articles "TBCOM.IR"
+
+
+<!-- img references -->
+[linkedin_img]: https://img.shields.io/badge/-LinkedIn-0B66C2?style=for-the-badge&logo=linkedin "LinkedIn"
+[stack_overflow_img]: https://img.shields.io/badge/-Stack%20Overflow-F2720C?style=for-the-badge&logo=stackoverflow&logoColor=ffffff "Stack Overflow"
+[instagram_img]: https://img.shields.io/badge/-Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=ffffff "Instagram"
+
+[javascript_img]: https://img.shields.io/badge/-javascript-ffffff?style=for-the-badge&logo=javascript "JavaScript"
+[angular_img]: https://img.shields.io/badge/-Angular-red?style=for-the-badge&logo=Angular "Angular"
+[html_img]: https://img.shields.io/badge/-html-ffffff?style=for-the-badge&logo=html5 "HTML"
+[css_img]: https://img.shields.io/badge/-css-ffffff?style=for-the-badge&logo=css3&logoColor=264DE4 "CSS"
+[bootstrap_img]: https://img.shields.io/badge/-bootstrap-ffffff?style=for-the-badge&logo=bootstrap "Bootstrap"
+[git_img]: https://img.shields.io/badge/-git-ffffff?style=for-the-badge&logo=git "Git"
+[github_stats]: https://github-readme-stats.vercel.app/api?username=jmschp&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=radical "jmschp GitHub Stats"
+[top_langs_img]: https://github-readme-stats.vercel.app/api/top-langs/?username=masoudbimar&layout=compact&langs_count=8&hide_border=true&theme=radical "masoudbimmer Top Lang"
 
 <!--
 Here are some ideas to get you started:
