@@ -59,7 +59,7 @@ I am Masoud Bimmer and I’ve been working as a software engineer for the past 1
 [css_img]: https://img.shields.io/badge/-css-ffffff?style=for-the-badge&logo=css3&logoColor=264DE4 "CSS"
 [bootstrap_img]: https://img.shields.io/badge/-bootstrap-ffffff?style=for-the-badge&logo=bootstrap "Bootstrap"
 [git_img]: https://img.shields.io/badge/-git-ffffff?style=for-the-badge&logo=git "Git"
-[github_stats]: https://github-readme-stats.vercel.app/api?username=masoudbimar&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=radical "Masoud Bimmer GitHub Stats"
+[github_stats]: https://github-readme-stats.vercel.app/api?username=masoudbimar&show_icons=true&include_all_commits=true&count_private=true&theme=radical "Masoud Bimmer GitHub Stats"
 [top_langs_img]: https://github-readme-stats.vercel.app/api/top-langs/?username=masoudbimar&layout=compact&langs_count=8&hide_border=true&theme=radical "masoudbimmer Top Lang"
 
 <!--
