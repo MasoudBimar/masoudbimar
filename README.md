@@ -40,7 +40,7 @@ I am Masoud Bimmer and I’ve been working as a software engineer for the past 1
 [linkedin]: https://www.linkedin.com/in/masoud-bimar "LinkedIn"
 [stack_overflow]: https://stackoverflow.com/users/2126355/masoud-bimmer "Stack Overflow"
 [instagram]: https://www.instagram.com/kamassb/ "Instagram"
-[TBCOM]: http://www.tbcom.ir/Blog/Articles "TBCOM.IR"
+[tbcom]: http://www.tbcom.ir/Blog/Articles "TBCOM.IR"
 
 
 <!-- img references -->
