@@ -24,14 +24,14 @@ I am Masoud Bimmer and I’ve been working as a software engineer for the past 1
 ---
 
 
-[![Github Stats By Anurag](https://github-readme-stats.vercel.app/api?username=masoudbimar&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/masoudbimar)
+<!-- [![Github Stats By Anurag](https://github-readme-stats.vercel.app/api?username=masoudbimar&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/masoudbimar) -->
 
 
 ![GitHub stats][github_stats]
 
 ![Top Langs][top_langs_img]
 
-[*Stats by anuraghazra/github-readme-stats*](https://github.com/anuraghazra/github-readme-stats)
+<!-- [*Stats by anuraghazra/github-readme-stats*](https://github.com/anuraghazra/github-readme-stats) -->
 
 
 - 😄 Pronouns: Masoud Bimmer
