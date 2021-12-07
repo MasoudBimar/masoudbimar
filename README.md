@@ -7,7 +7,7 @@ I am Masoud Bimmer and I’ve been working as a software engineer for the past 1
 
 ## Connect with me
 
-[![LinkedIn][linkedin_img]][linkedin] [![Stack Overflow][stack_overflow_img]][stack_overflow] [![Instagram][instagram_img]][instagram]
+[![LinkedIn][linkedin_img]][linkedin] [![Stack Overflow][stack_overflow_img]][stack_overflow] [![Instagram][instagram_img]][instagram] [![TBCOM][dev_img]][tbcom]
 ---
 
 ## Languages and tools
@@ -16,14 +16,20 @@ I am Masoud Bimmer and I’ve been working as a software engineer for the past 1
 
 ![HTML][html_img] ![CSS][css_img] ![Bootstrap][bootstrap_img]
 
-![PostgreSQL][postgresql] ![Git][git_img]
+![Git][git_img]
 
 ---
 
 
 [![Github Stats By Anurag](https://github-readme-stats.vercel.app/api?username=masoudbimar&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/masoudbimar)
 
+## My GitHub stats
 
+![GitHub stats][github_stats]
+
+![Top Langs][top_langs_img]
+
+[*Stats by anuraghazra/github-readme-stats*](https://github.com/anuraghazra/github-readme-stats)
 
 
 - 😄 Pronouns: Masoud Bimmer
@@ -33,9 +39,8 @@ I am Masoud Bimmer and I’ve been working as a software engineer for the past 1
 <!-- references -->
 [linkedin]: https://www.linkedin.com/in/masoud-bimar "LinkedIn"
 [stack_overflow]: https://stackoverflow.com/users/2126355/masoud-bimmer "Stack Overflow"
-[instagram]: https://www.instagram.com/jmschp/ "Instagram"
-[hacker_rank]: https://www.instagram.com/kamassb "HackerRank"
-[dev]: http://www.tbcom.ir/Blog/Articles "TBCOM.IR"
+[instagram]: https://www.instagram.com/kamassb/ "Instagram"
+[TBCOM]: http://www.tbcom.ir/Blog/Articles "TBCOM.IR"
 
 
 <!-- img references -->
@@ -49,7 +54,7 @@ I am Masoud Bimmer and I’ve been working as a software engineer for the past 1
 [css_img]: https://img.shields.io/badge/-css-ffffff?style=for-the-badge&logo=css3&logoColor=264DE4 "CSS"
 [bootstrap_img]: https://img.shields.io/badge/-bootstrap-ffffff?style=for-the-badge&logo=bootstrap "Bootstrap"
 [git_img]: https://img.shields.io/badge/-git-ffffff?style=for-the-badge&logo=git "Git"
-[github_stats]: https://github-readme-stats.vercel.app/api?username=jmschp&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=radical "jmschp GitHub Stats"
+[github_stats]: https://github-readme-stats.vercel.app/api?username=masoudbimar&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=radical "Masoud Bimmer GitHub Stats"
 [top_langs_img]: https://github-readme-stats.vercel.app/api/top-langs/?username=masoudbimar&layout=compact&langs_count=8&hide_border=true&theme=radical "masoudbimmer Top Lang"
 
 <!--
