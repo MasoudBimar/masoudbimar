@@ -12,11 +12,14 @@ I am Masoud Bimmer and I’ve been working as a software engineer for the past 1
 
 ## Languages and tools
 
-![JavaScript][javascript_img] ![Angular][angular_img]
+
+![JavaScript][javascript_img] ![Angular][angular_img] 
 
 ![HTML][html_img] ![CSS][css_img] ![Bootstrap][bootstrap_img]
 
 ![Git][git_img]
+
+![C#][csharp_img]
 
 ---
 
@@ -50,6 +53,7 @@ I am Masoud Bimmer and I’ve been working as a software engineer for the past 1
 [tbcom_img]: https://img.shields.io/badge/-TBCOM-E1306C?style=for-the-badge&logo=TBCOM&logoColor=ffffff "TBCOM"
 
 [javascript_img]: https://img.shields.io/badge/-javascript-ffffff?style=for-the-badge&logo=javascript "JavaScript"
+[csharp_img]: https://img.shields.io/badge/-csharp-ffffff?style=for-the-badge&logo=csharp "C-Sharp"
 [angular_img]: https://img.shields.io/badge/-Angular-red?style=for-the-badge&logo=Angular "Angular"
 [html_img]: https://img.shields.io/badge/-html-ffffff?style=for-the-badge&logo=html5 "HTML"
 [css_img]: https://img.shields.io/badge/-css-ffffff?style=for-the-badge&logo=css3&logoColor=264DE4 "CSS"
