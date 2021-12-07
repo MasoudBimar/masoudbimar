@@ -7,7 +7,7 @@ I am Masoud Bimmer and I’ve been working as a software engineer for the past 1
 
 ## Connect with me
 
-[![LinkedIn][linkedin_img]][linkedin] [![Stack Overflow][stack_overflow_img]][stack_overflow] [![Instagram][instagram_img]][instagram] [![TBCOM][dev_img]][tbcom]
+[![LinkedIn][linkedin_img]][linkedin] [![Stack Overflow][stack_overflow_img]][stack_overflow] [![Instagram][instagram_img]][instagram] [![TBCOM][tbcom_img]][tbcom]
 ---
 
 ## Languages and tools
@@ -47,6 +47,7 @@ I am Masoud Bimmer and I’ve been working as a software engineer for the past 1
 [linkedin_img]: https://img.shields.io/badge/-LinkedIn-0B66C2?style=for-the-badge&logo=linkedin "LinkedIn"
 [stack_overflow_img]: https://img.shields.io/badge/-Stack%20Overflow-F2720C?style=for-the-badge&logo=stackoverflow&logoColor=ffffff "Stack Overflow"
 [instagram_img]: https://img.shields.io/badge/-Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=ffffff "Instagram"
+[tbcom_img]: https://img.shields.io/badge/-TBCOM-E1306C?style=for-the-badge&logo=TBCOM&logoColor=ffffff "TBCOM"
 
 [javascript_img]: https://img.shields.io/badge/-javascript-ffffff?style=for-the-badge&logo=javascript "JavaScript"
 [angular_img]: https://img.shields.io/badge/-Angular-red?style=for-the-badge&logo=Angular "Angular"
