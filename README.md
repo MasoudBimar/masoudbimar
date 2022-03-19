@@ -2,8 +2,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&text=Masoud%20Bimmer!&fontSize=40&fontColor=ffffff)
 
 
-I am Masoud Bimmer and I’ve been working as a software engineer for the past 12 years. Also I am student with big interest in data.
-<!-- Hi my name is  Masoud Bimmer, I am a passionate Fullstack Web Developer from Iran, mostly focused in Angular. -->
+I am Masoud Bimmar and I’ve been working as a software engineer for the past 12 years. Also I am student with big interest in data.
+<!-- Hi my name is  Masoud Bimmar, I am a passionate Fullstack Web Developer from Iran, mostly focused in Angular. -->
 
 - 🔭 Working on multiple frontend project using Angular
 
@@ -39,7 +39,7 @@ I am Masoud Bimmer and I’ve been working as a software engineer for the past 1
 <!-- [*Stats by anuraghazra/github-readme-stats*](https://github.com/anuraghazra/github-readme-stats) -->
 
 
-- 😄 Pronouns: Masoud Bimmer
+- 😄 Pronouns: Masoud Bimmar
 - ⚡ Fun fact: ...
 
 
