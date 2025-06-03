@@ -1,5 +1,5 @@
 <!-- markdownlint-disable-next-line MD041 -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&text=Masoud%20Bimar!&fontSize=40&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&text=Masoud%20Bimmer!&fontSize=40&fontColor=ffffff)
 
 
 I am Masoud Bimar and I’ve been working as a software engineer for the past 12 years. Also I am student with big interest in data.
