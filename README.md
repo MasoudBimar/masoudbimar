@@ -2,7 +2,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&text=Masoud%20Bimmer!&fontSize=40&fontColor=ffffff)
 
 
-I am Masoud Bimar and I’ve been working as a software engineer for the past 12 years. Also I am student with big interest in data.
+I am Masoud Bimmer and I’ve been working as a software engineer for the past 12 years. Also I am student with big interest in data.
 <!-- Hi my name is  Masoud Bimar, I am a passionate Fullstack Web Developer from Iran, mostly focused in Angular. -->
 # 💫 About Me:
 🔭 I’m currently working on angular libraries<br>🌱 I’m currently teaching angular<br>💬 Ask me about javascript, typescript, angular, enterprise architecture <br>⚡ Fun fact: my last name means numerous
