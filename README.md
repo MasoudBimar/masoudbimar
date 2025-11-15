@@ -30,4 +30,7 @@ I am Masoud Bimar and I’ve been working as a software engineer for the past 12
 ---
 [![](https://visitcount.itsvg.in/api?id=MasoudBimar&icon=0&color=0)](https://visitcount.itsvg.in)
 
+### Stackoceflow Stats
+https://so-stats.vercel.app/api?user=2126355
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
